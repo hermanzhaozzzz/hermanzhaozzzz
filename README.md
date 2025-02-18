@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">👋 Hello! I'm Huanan Zhao (Herman)</h2>
+ 
 <h5 align="center">
   <a href="http://aboutme.zhaohuanan.cc/">Blog</a>
   &emsp;•&emsp;
   <a href="https://x.com/HermanZhaoZzzz">X</a>
+  &emsp;•&emsp;
+  <a href="https://scholar.google.com/citations?user=ojSVoWQAAAAJ">🎓 Google Scholar</a>
 </h5>
 
 <table width="100%" align="center">
@@ -61,3 +64,6 @@ Here are some ideas to get you started:
     </a></td>
   </tr>
 </table>
+
+- 🎓 I am a researcher proficient in Bioinformatics, specializing in the field of GENE EDITING and AI4S!
+- 🎓 I am now a Ph.D. candidate jointly trained by Tsinghua University and Peking University.
